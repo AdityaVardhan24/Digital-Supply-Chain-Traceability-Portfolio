@@ -1,0 +1,28 @@
+{
+  "@context": "https://ref.gs1.org/standards/epcis/2.0.0/epcis-context.jsonld",
+  "id": "https://id.gs1.org/01/08901058800456",
+  "type": "Apparel",
+  "productName": "Circular Organic Cotton Tee",
+  "brand": "EcoFashion",
+  "gtin": "08901058800456",
+  "materialComposition": [
+    {
+      "material": "Organic Cotton",
+      "percentage": "80%"
+    },
+    {
+      "material": "Recycled Polyester (rPET)",
+      "percentage": "20%"
+    }
+  ],
+  "circularity": {
+    "recyclability": "High - Monomaterial blend",
+    "microplasticShedding": "Low",
+    "washingInstructions": "Wash cold (30°C) to save energy."
+  },
+  "supplyChain": {
+    "fiberOrigin": "Gujarat, India",
+    "spinningMill": "Coimbatore, India",
+    "garmentFactory": "Tirupur, India"
+  }
+}

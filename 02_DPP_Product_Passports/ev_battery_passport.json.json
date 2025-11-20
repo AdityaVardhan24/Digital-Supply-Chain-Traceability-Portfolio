@@ -1,0 +1,34 @@
+{
+  "@context": "https://ref.gs1.org/standards/epcis/2.0.0/epcis-context.jsonld",
+  "id": "https://id.gs1.org/01/08901058800123",
+  "type": "EVBattery",
+  "productName": "Apex Long-Range Li-Ion Pack",
+  "manufacturer": "VoltIndia Energy Systems",
+  "gtin": "08901058800123",
+  "manufacturingDate": "2025-10-15",
+  "batteryState": {
+    "stateOfHealth": "100%",
+    "capacity": "75 kWh",
+    "expectedCycleLife": 2000
+  },
+  "chemistry": {
+    "cathodeMaterial": "NMC 811 (Nickel Manganese Cobalt)",
+    "anodeMaterial": "Graphite"
+  },
+  "criticalRawMaterials": [
+    {
+      "material": "Cobalt",
+      "origin": "Democratic Republic of Congo",
+      "supplierCertified": true
+    },
+    {
+      "material": "Lithium",
+      "origin": "Australia",
+      "supplierCertified": true
+    }
+  ],
+  "carbonFootprint": {
+    "total": "62 kg CO2e/kWh",
+    "verificationStandard": "ISO 14067"
+  }
+}
