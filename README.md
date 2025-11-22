@@ -9,7 +9,7 @@
 ### 👤 Candidate Profile
 * **Role:** Supply Chain Data Analyst / Digital Transformation Trainee
 * **Availability:** Available for full-time roles from Jan/Feb 2026 | Open to relocation
-* **LinkedIn:** [https://www.linkedin.com/in/aditya-vardhan1718] [ADITYA VARDHAN]
+* **LinkedIn:**   [AdityaVardhan] (https://www.linkedin.com/in/aditya-vardhan1718)
 *  **Email:** adityavardhan1718@gmail.com
 ---
 
